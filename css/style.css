@@ -1,0 +1,41 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    justify-items: center;    
+    justify-content: center;
+    background-color: #6b3100;
+}
+.nome{
+    color: #f9a830;
+    font-size: 20px;
+}
+.ocupacao{
+    color: #d58a24;
+    font-size: 16px;
+}
+.biografia{
+    color:#d58a24;
+    font-size: 16px;
+}
+.hoobies{
+    color:#d58a24;
+    font-size: 16px;
+}
+.linkedin{
+    color:#dda858;
+    font-size: 16px;
+    text-decoration:none;
+}
+.gitHub{
+    color:#dda858;
+    font-size: 16px;
+    text-decoration:none;
+}
+.titulo-2{
+    color: rgb(252, 225, 186);
+    font-size: 18px;
+}
+.titulo{
+    color:rgb(252, 225, 186);
+    font-size: 18px;
+}
